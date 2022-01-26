@@ -2,7 +2,7 @@
 # Position: Software Engineer, Trading Infrastructure, Shanghai
 # Job Description
 # ➢ The individual in this role will be a part of a dynamic team working on developing
-# and maintaining Jump's Algorithmic Trading Platform. They will be focused on C++
+# and maintaining Algorithmic Trading Platform. They will be focused on C++
 # functionality, alongside our Quant/Traders who will also be hands on with C++.
 # ➢ You will be responsible for creating and optimizing scalable, multi-tiered
 # applications and infrastructure. We are looking for someone who will be able to
